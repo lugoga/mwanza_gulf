@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585028018384.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3194447715",
+    "id" : "D82F9A94",
+    "lastKnownWriteTime" : 1585140112,
+    "last_content_update" : 1585140112570,
+    "path" : "E:/Data Manipulation/kishe_mwanzaGulf/coordinates_processing.Rmd",
+    "project_path" : "coordinates_processing.Rmd",
+    "properties" : {
+        "cursorPosition" : "92,117",
+        "last_setup_crc32" : "1FD64459c4e2d899",
+        "scrollLine" : "90",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
